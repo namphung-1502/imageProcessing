@@ -1,0 +1,55 @@
+QWidget{
+    background-color:white;
+}
+#frame1{
+    max-height:50;
+    max-width:300;
+    border:none;
+}
+#frame2{
+    max-width:860;
+    max-height:600;
+    border:none;
+}
+#frame3{
+    max-width:860;
+    max-height:200;
+    border:none;
+}
+#btn_openfile{
+   max-width:100;
+   height:30;
+   border-radius:5;
+   border-style: solid;
+   border-width:2;
+   border-color: rgb(0,95,191);
+   background-color:#aad4ff;
+
+}
+#btn_saveimage{
+   max-width:100;
+   height:30;
+   border-radius:5;
+   border-style: solid;
+   border-width:2;
+   border-color: rgb(191,0,0);
+   background-color:#ffaaaa;
+}
+#ori_image{
+   border-radius:5;
+   border-style: solid;
+   border-width:1;
+   border-color: #ccc;
+   background-color:white;
+   font-size:20px;
+   color:#ccc;
+
+}
+#process_image{
+   border-radius:5;
+   border-style: solid;
+   border-width:1;
+   border-color: #ccc;
+   font-size:20px;
+   color:#ccc;
+}
