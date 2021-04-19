@@ -1,1 +1,2 @@
-# imageProcessing
+With Python we create an app desktop to process image
+It has some funtion like smooth, blur, filter,....
